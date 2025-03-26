@@ -1,0 +1,7 @@
+bse
+yfinance
+dotenv
+logging
+AWSIoTPythonSDK
+python-dotenv
+pytest

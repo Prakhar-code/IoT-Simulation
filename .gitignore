@@ -1,0 +1,7 @@
+
+# add venv and environment files to .gitignore
+.venv/
+.env
+
+# add certificates to .gitignore
+certificate/
