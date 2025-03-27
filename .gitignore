@@ -14,6 +14,7 @@ build/
 
 # Ignore IDE specific files
 .vscode/
+__pycache__/
 .idea/
 *.suo
 *.ntvs*
