@@ -1,7 +1,21 @@
 
-# add venv and environment files to .gitignore
-.venv/
+# add environment files to .gitignore
 .env
 
 # add certificates to .gitignore
 certificate/
+
+# Ignore log files
+*.log
+
+# Ignore build output directories
+dist/
+build/
+
+# Ignore IDE specific files
+.vscode/
+.idea/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
