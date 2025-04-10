@@ -31,7 +31,7 @@ stock_tickers = [
     "HAL",
     "COALINDIA",
     "DMART",
-    "ZOMATO",
+    "ETERNAL",
     "NESTLEIND",
     "ASIANPAINT",
     "BAJAJ-AUTO",
